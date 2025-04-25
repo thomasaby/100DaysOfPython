@@ -8,7 +8,7 @@ Welcome to my journey through the [100 Days of Code - Python Bootcamp](https://w
 - 💡 **Goal:** Code for at least 1 hour every day for 100 days.
 - 📚 **Course:** [Udemy - 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - 🛠️ **Tools & Technologies:** Python, Flask, Tkinter, APIs, Web Scraping, Data Analysis, Automation, and more.
-- 📅 **Start Date:** [Add your start date here]
+- 📅 **Start Date:** 23rd April, 2025
 
 ---
 
@@ -54,13 +54,6 @@ Welcome to my journey through the [100 Days of Code - Python Bootcamp](https://w
 ## 📜 License
 
 This repository contains my personal code and learning projects following the course structure. Course content is © Dr. Angela Yu / Udemy.
-
----
-
-## 🙌 Let’s Connect
-
-- 📧 [Your email here, optional]
-- 🌐 [LinkedIn, portfolio, or blog if you'd like]
 
 ---
 
